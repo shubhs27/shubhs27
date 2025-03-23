@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm Shubhanan</h1>
-<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>     
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubhanan;👨🏻‍💻+Full-Stack+Developer;🚀+Building+cool+projects;💻+One+commit+at+a+time!)](https://git.io/typing-svg)
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-# 👨🏻‍💻 About Me:
-As a full-stack developer 
 
-![](https://komarev.com/ghpvc/?username=shubhs27&color=447ff7&label=Visitor+count)
 
+<p align="center"><img src="coder.gif" width="500" alt="coder.gif"></p>     
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🛠 Tech Stack:
+## 👨🏻‍💻 &nbsp;About Me
+
+- 🚀 Passionate about building cool projects and solving real-world problems.  
+- 💡 Always learning and exploring new technologies.  
+- 🔥 Experienced in JavaScript, Python, Java, and more!  
+- 🎯 Love working on web development, AI, and automation.  
+- 🛠️ Currently working on exciting personal projects.  
+
+
+![](https://komarev.com/ghpvc/?username=shubhs27&color=447ff7&label=Visitor+count)
+
+---
+
+## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://custom-icon-badges.demolab.com/badge/-Java-05122A?style=flat&logo=java)&nbsp;
@@ -61,7 +70,7 @@ As a full-stack developer
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shubhs27&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -69,10 +78,9 @@ As a full-stack developer
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhs27&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### ✍️ Random Dev Quotes
+## ✍️ &nbsp;Random Dev Quotes
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?theme=algolia" />
@@ -82,13 +90,10 @@ As a full-stack developer
 
 
 
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### 📫 &nbsp; Connect with me:
+## 📫 &nbsp; Connect with me:
 
 <a href="https://www.linkedin.com/in/shubhs27/"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a> &nbsp;
 <a href="mailto:shubhanans@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
