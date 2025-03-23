@@ -25,12 +25,15 @@ As a backend developer
 </a>
 </p>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?theme=algolia)
+[!(https://dev-humor.vercel.app/api&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+<br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ### 📫 &nbsp; Connect with me:
