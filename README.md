@@ -29,7 +29,7 @@ As a backend developer
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?theme=algolia)
-![](https://dev-humor.vercel.app/api&theme=algolia)
+[![Readme Quotes](https://dev-humor.vercel.app/api?theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 <br>
 
 
