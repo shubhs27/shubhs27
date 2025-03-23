@@ -32,13 +32,6 @@ As a backend developer
 [![Readme Quotes](https://dev-humor.vercel.app/api?theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img height="180em" src="![](https://quotes-github-readme.vercel.app/api?theme=algolia)"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhs27&layout=compact&langs_count=8&theme=algolia"/>
-
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
