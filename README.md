@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubhanan;👨🏻‍💻+Full-Stack+Developer;🚀+Building+cool+projects;💻+One+commit+at+a+time!)](https://git.io/typing-svg)
 
 
-
-
 <p align="center"><img src="coder.gif" width="500" alt="coder.gif"></p>     
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -14,7 +12,6 @@
 - 🔥 Experienced in JavaScript, Python, Java, and more!  
 - 🎯 Love working on web development, AI, and automation.  
 - 🛠️ Currently working on exciting personal projects.  
-
 
 ![](https://komarev.com/ghpvc/?username=shubhs27&color=447ff7&label=Visitor+count)
 
@@ -29,6 +26,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JSX](https://img.shields.io/badge/-JSX-05122A?style=flat&logo=react)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
@@ -76,12 +74,10 @@
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 ![Obsidian](https://img.shields.io/badge/-Obsidian-05122A?style=flat&logo=obsidian)&nbsp;
 
-
-
+<br>
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 -->
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -103,10 +99,7 @@
   <img src="https://dev-humor.vercel.app/api?theme=algolia" />
 </p>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ## 📫 &nbsp; Connect with me:
 
