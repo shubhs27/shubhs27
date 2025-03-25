@@ -40,6 +40,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Pug](https://img.shields.io/badge/-Pug-05122A?style=flat&logo=pug)&nbsp;
 ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose)&nbsp;
+![REST API](https://custom-icon-badges.demolab.com/badge/-REST%20API-05122A?style=flat&logo=rest)&nbsp;
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
