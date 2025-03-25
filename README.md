@@ -12,6 +12,7 @@
 - 🔥 Experienced in JavaScript, Python, Java, and more!  
 - 🎯 Love working on web development, AI, and automation.  
 - 🛠️ Currently working on exciting personal projects.  
+- 🐞 Fixing bugs I created while fixing bugs.
 
 ![](https://komarev.com/ghpvc/?username=shubhs27&color=447ff7&label=Visitor+count)
 
