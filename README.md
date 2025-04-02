@@ -8,7 +8,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 <div align="center">
-  <img align="right" width="280" src="rick.jpg" alt="Programmer meme"/>
+  <img align="right" width="250" src="rick.jpg" alt="Programmer meme"/>
   
   <div align="left">
     
