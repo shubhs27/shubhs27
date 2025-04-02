@@ -7,12 +7,20 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
+<div align="center">
+  <img align="right" width="300" src="https://i.imgflip.com/3lebc5.jpg" alt="Programmer meme"/>
+  
+  <div align="left">
+    
 - 🚀 Passionate about building cool projects and solving real-world problems.  
 - 💡 Always learning and exploring new technologies.  
 - 🔥 Experienced in JavaScript, Python, Java, and more!  
 - 🎯 Love working on web development, AI, and automation.  
 - 🛠️ Currently working on exciting personal projects.  
 - 🐞 Fixing bugs I created while fixing bugs.
+  
+  </div>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=shubhs27&color=447ff7&label=Visitor+count)
 
@@ -27,13 +35,13 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSX](https://img.shields.io/badge/-JSX-05122A?style=flat&logo=react)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)&nbsp;
+![JSX](https://img.shields.io/badge/-JSX-05122A?style=flat&logo=react)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
