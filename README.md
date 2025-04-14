@@ -40,13 +40,15 @@
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Context API](https://img.shields.io/badge/-Context%20API-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)&nbsp;
-![React Hooks](https://img.shields.io/badge/-React%20Hooks-05122A?style=flat&logo=react)&nbsp;
+![Context API](https://img.shields.io/badge/-Context%20API-05122A?style=flat&logo=react)&nbsp;
 ![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=react-router)&nbsp;
+![React Query](https://img.shields.io/badge/-React%20Query-05122A?style=flat&logo=react-query)&nbsp;
+![React Hooks](https://img.shields.io/badge/-React%20Hooks-05122A?style=flat&logo=react)&nbsp;
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-05122A?style=flat&logo=react-hook-form)&nbsp;
 ![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-05122A?style=flat&logo=css-modules)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![JSX](https://img.shields.io/badge/-JSX-05122A?style=flat&logo=react)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)&nbsp;
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
