@@ -22,7 +22,10 @@
   </div>
 </div>
 
-![](https://komarev.com/ghpvc/?username=shubhs27&color=447ff7&label=Visitor+count)
+![](https://img.shields.io/badge/-05122A?style=flat&logo=github)&nbsp;![](https://komarev.com/ghpvc/?username=shubhs27&color=05122A&style=flat&label=Visitors)
+
+
+
 
 ---
 
