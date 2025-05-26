@@ -127,3 +127,5 @@
 
 <a href="https://www.linkedin.com/in/shubhs27/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2"/></a> &nbsp;
 <a href="mailto:shubhanans@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail&logoColor=D14836" /></a> &nbsp;
+<a href="https://shubhanan-sharma.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=vercel&logoColor=white" /></a> &nbsp;
+
